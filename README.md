@@ -38,8 +38,11 @@ Full-Stack Software Engineer | Building scalable web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UvinduEshwarage&show_icons=true&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=UvinduEshwarage&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" 
+  />
 </p>
+
 
 ---
 
