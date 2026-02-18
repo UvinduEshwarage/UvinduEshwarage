@@ -35,16 +35,6 @@ Full-Stack Software Engineer | Building scalable web applications
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UvinduEshwarage&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" 
-  />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/uvindu-eshwarage-695377231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVT3sarbzQgmXA9%2BO8DuMZQ%3D%3D
