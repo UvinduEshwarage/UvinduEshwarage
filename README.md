@@ -6,26 +6,31 @@ Full-Stack Software Engineer | Building scalable web applications
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 University student focused on software engineering
-- 💻 Building full-stack applications with modern web stacks
-- 🧠 Interested in scalable architecture & clean UI design
-- 📚 Exploring system design, performance optimization, and cloud
+-  University student focused on software engineering
+-  Building full-stack applications with modern web stacks
+-  Interested in scalable architecture & clean UI design
+-  Exploring system design, performance optimization, and cloud
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Next.js
 - React
+- Angular
+- javaScript
+- TypeScrpit
 - Tailwind CSS
 
 ### Backend
 - Node.js
 - Express
+- .Net
 - MongoDB
+- SQL Server
 
 ### Other Tools
 - Git & GitHub
