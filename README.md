@@ -36,6 +36,7 @@ Full-Stack Software Engineer | Building scalable web applications
 - Git & GitHub
 - REST API Design
 - Postman
+- Jira
 - Figma (UI Design)
 
 ---
